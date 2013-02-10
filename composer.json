@@ -1,0 +1,13 @@
+{
+    "name": "ha1t/php-lite-lock",
+    "description": "minimal file lock class",
+    "authors": [
+        {
+            "name": "ha1t",
+            "email": "halt.feits@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.2.3"
+    }
+}
