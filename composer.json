@@ -1,5 +1,6 @@
 {
     "name": "ha1t/php-lite-lock",
+    "type": "library",
     "description": "minimal flock() wrapper class",
     "authors": [
         {
