@@ -1,6 +1,6 @@
 {
     "name": "ha1t/php-lite-lock",
-    "description": "minimal file lock class",
+    "description": "minimal flock() wrapper class",
     "authors": [
         {
             "name": "ha1t",

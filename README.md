@@ -1,6 +1,6 @@
 # php-LiteLock
 
-flock()を利用したシンプルなロック機構を実現するライブラリ
+minimal flock() wrapper class.
 
 ## Example
 
