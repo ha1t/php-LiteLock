@@ -2,13 +2,19 @@
     "name": "ha1t/php-lite-lock",
     "type": "library",
     "description": "minimal flock() wrapper class",
+    "license": "MIT",
     "authors": [
-        {
-            "name": "ha1t",
-            "email": "ha1t@example.com"
-        }
+      {
+        "name": "ha1t",
+        "email": "ha1t@example.com"
+      }
     ],
     "require": {
       "php": ">=5.2.3"
+    }
+    "autoload": {
+      "psr-0": {
+        "LiteLock": "lib/"
+      }
     }
 }
