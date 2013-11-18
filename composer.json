@@ -11,10 +11,10 @@
     ],
     "require": {
       "php": ">=5.2.3"
-    }
+    },
     "autoload": {
       "psr-0": {
-        "LiteLock": "lib/"
+        "LiteLock": "lib"
       }
     }
 }
