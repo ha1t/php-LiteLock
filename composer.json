@@ -1,6 +1,7 @@
 {
     "name": "ha1t/php-lite-lock",
     "type": "library",
+    "homepage": "https://github.com/ha1t/php-LiteLock",
     "description": "minimal flock() wrapper class",
     "license": "MIT",
     "authors": [
@@ -14,7 +15,7 @@
     },
     "autoload": {
       "psr-0": {
-        "LiteLock": "lib"
+        "LiteLock": "lib/LiteLock"
       }
     }
 }
